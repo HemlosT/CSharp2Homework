@@ -1,0 +1,15 @@
+D:\Работа в git\C#2dz\task15\bin\Debug\net6.0\task15.exe
+D:\Работа в git\C#2dz\task15\bin\Debug\net6.0\task15.deps.json
+D:\Работа в git\C#2dz\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+D:\Работа в git\C#2dz\task15\bin\Debug\net6.0\task15.dll
+D:\Работа в git\C#2dz\task15\bin\Debug\net6.0\task15.pdb
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\task15.dll
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\refint\task15.dll
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\task15.pdb
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+D:\Работа в git\C#2dz\task15\obj\Debug\net6.0\ref\task15.dll

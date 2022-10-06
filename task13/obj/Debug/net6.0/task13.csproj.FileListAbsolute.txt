@@ -1,0 +1,15 @@
+D:\Работа в git\C#2dz\task13\bin\Debug\net6.0\task13.exe
+D:\Работа в git\C#2dz\task13\bin\Debug\net6.0\task13.deps.json
+D:\Работа в git\C#2dz\task13\bin\Debug\net6.0\task13.runtimeconfig.json
+D:\Работа в git\C#2dz\task13\bin\Debug\net6.0\task13.dll
+D:\Работа в git\C#2dz\task13\bin\Debug\net6.0\task13.pdb
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\task13.csproj.AssemblyReference.cache
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\task13.AssemblyInfoInputs.cache
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\task13.AssemblyInfo.cs
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\task13.csproj.CoreCompileInputs.cache
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\task13.dll
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\refint\task13.dll
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\task13.pdb
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\task13.genruntimeconfig.cache
+D:\Работа в git\C#2dz\task13\obj\Debug\net6.0\ref\task13.dll

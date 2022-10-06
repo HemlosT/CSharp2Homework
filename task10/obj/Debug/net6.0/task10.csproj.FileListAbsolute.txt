@@ -1,0 +1,15 @@
+D:\Работа в git\C#2dz\task10\bin\Debug\net6.0\task10.exe
+D:\Работа в git\C#2dz\task10\bin\Debug\net6.0\task10.deps.json
+D:\Работа в git\C#2dz\task10\bin\Debug\net6.0\task10.runtimeconfig.json
+D:\Работа в git\C#2dz\task10\bin\Debug\net6.0\task10.dll
+D:\Работа в git\C#2dz\task10\bin\Debug\net6.0\task10.pdb
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\task10.csproj.AssemblyReference.cache
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\task10.AssemblyInfoInputs.cache
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\task10.AssemblyInfo.cs
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\task10.csproj.CoreCompileInputs.cache
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\task10.dll
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\refint\task10.dll
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\task10.pdb
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\task10.genruntimeconfig.cache
+D:\Работа в git\C#2dz\task10\obj\Debug\net6.0\ref\task10.dll
